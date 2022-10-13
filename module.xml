@@ -7,7 +7,8 @@
       <Description>See Database Table Column Selectivity Vs Ratio of Distinct Values</Description>
       <Keywords>selectivity distinct sql index</Keywords>
       <Packaging>module</Packaging>
-      <SourcesRoot>src</SourcesRoot>
+      <SourcesRoot>udl</SourcesRoot>
+	  <Resource Name="alwo.GoSelector.CLS"/>
     </Module>
   </Document>
 </Export>
